@@ -1,8 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "need_plan": false
     }
   ],
   "profile": {
