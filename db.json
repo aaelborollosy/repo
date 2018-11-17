@@ -1,3 +1,11 @@
 {
-  'need_plan':false
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
